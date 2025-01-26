@@ -1,0 +1,15 @@
+C:\Users\XPRISTO\source\repos\Advanced2Questions\bin\Debug\net8.0\Advanced2Questions.exe
+C:\Users\XPRISTO\source\repos\Advanced2Questions\bin\Debug\net8.0\Advanced2Questions.deps.json
+C:\Users\XPRISTO\source\repos\Advanced2Questions\bin\Debug\net8.0\Advanced2Questions.runtimeconfig.json
+C:\Users\XPRISTO\source\repos\Advanced2Questions\bin\Debug\net8.0\Advanced2Questions.dll
+C:\Users\XPRISTO\source\repos\Advanced2Questions\bin\Debug\net8.0\Advanced2Questions.pdb
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\Advanced2Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\Advanced2Questions.AssemblyInfoInputs.cache
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\Advanced2Questions.AssemblyInfo.cs
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\Advanced2Questions.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\Advanced2Questions.sourcelink.json
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\Advanced2Questions.dll
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\refint\Advanced2Questions.dll
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\Advanced2Questions.pdb
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\Advanced2Questions.genruntimeconfig.cache
+C:\Users\XPRISTO\source\repos\Advanced2Questions\obj\Debug\net8.0\ref\Advanced2Questions.dll
